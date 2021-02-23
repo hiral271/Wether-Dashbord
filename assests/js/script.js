@@ -53,7 +53,4 @@ console.log(data)
 
 
   informationEl.addEventListener('click',function(){
-
-
-
 })
