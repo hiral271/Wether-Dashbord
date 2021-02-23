@@ -1,0 +1,62 @@
+.jumbotron{
+
+    background-color: #414447;
+color: white;
+
+
+
+
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    background: #f1f1f1;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: #2196F3;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #0b7dda;
+  }
+  
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  #information{
+border: 2px solid  grey;
+width:72%;
+height: 300px;
+margin: auto;
+float:right
+
+
+  }
+#sidebar{
+  border:1px solid grey;
+height: 600px;
+width: 500px;
+float: left;
+margin-left: 10px;
+
+}
+.display{
+text-align: center;
+
+
+}
